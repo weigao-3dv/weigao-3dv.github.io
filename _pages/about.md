@@ -47,13 +47,3 @@ redirect_from:
 | Panoramic map real-time generation and rapid updating | Wei Gao | National High Technology R&D Program of China (2013AA12A202) | 2013-2015 |
 | 3D modeling of Chinese ancient architectures by fusing structures and images | Wei Gao |  National Natural Science Foundation of China (61203278) | 2013-2015 |
 
-## Data&Code
-
-### Chinese ancient architecture image database
-
-We have captured typical ancient architectures in the four Buddhist mountains (Mount Wutai, Mount Emei, Mount Jiuhua, Mount Puto) and two Taoist mountains (Mount Wudang, Mount Qingcheng). The camera is Canno EOS 5D. More information you can visit **Data&Code**.
-
-### A large scale dataset for indoor visual localization with high precise ground truth
-
-This dataset presents a challenging new dataset for indoor localization research. We have recorded the whole internal structure of Fengtai Wanda Plaza which is over 15800 square meters area with a Navvis M6 device. The dataset contains over one thousand RGBD panoramas and three thousand query images collected by three different smartphones. In addition to the data, aligned 3D point cloud is produced after the elimination of moving objects based on the building floorplan. Furthermore, a method is provided to generate corresponding high resolution depth images for each panorama. By fixing the smartphones on the device using a specially designed bracket, 6 degree of freedom camera poses can be calculated precisely. We believe it can give a new benchmark for indoor visual localization. More information you can visit **Data&Code**.
-
