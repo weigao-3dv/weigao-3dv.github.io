@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Wei Gao** is a Associate Professor at Institute of Automation, Chinese Academy of Sciences, an Adjunct Associate Professor at School of Artificial Intelligence, University of Chinese Academy of Sciences.
-
-His current research interests include artificial intelligent, computer vision, 3D reconstruction and SLAM etc.
+**Wei Gao** is a Associate Professor at Institute of Automation, Chinese Academy of Sciences, an Adjunct Associate Professor at School of Artificial Intelligence, University of Chinese Academy of Sciences. His current research interests include artificial intelligent, computer vision, 3D reconstruction and SLAM etc.
 
 ## Interests
 
@@ -27,6 +25,25 @@ His current research interests include artificial intelligent, computer vision, 
 * Member of Indoor Navigation and Positioning Committee of China Satellite Navigation and Positioning Association
 * Member of the Machine Vision Committee of the Chinese Society of image and Graphics
 * Member of the 3D Vision Committee of the Chinese Society of image and Graphics
+
+## Research Projects
+
+### Current Projects
+
+| Title | PI | Funding | Time |
+| -- | -- | -- | -- |
+| Weakly supervised learning and graph neural networks for indoor visual localization of large buildings | Wei Gao | National Natural Science Foundation of China (62172414) | 2022-2025 |
+
+
+### Finished Projects
+
+## Data&Code
+
+### Chinese Ancient Architecture Image Database
+
+### Benchmark Database
+
+### Benchmark Data Evaluation Software
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
