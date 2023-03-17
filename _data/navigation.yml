@@ -5,6 +5,9 @@ main:
     
   - title: "Patents"
     url: /patents/
+    
+  - title: "Data&Code"
+    url: /datacode/
 
   - title: "Contact"
     url: /contact/    
