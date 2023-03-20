@@ -12,7 +12,7 @@ We have captured typical ancient architectures in the four Buddhist mountains (M
 
 We use the Riegl-LMS-Z420i laser scanner to scan the 3 buildings in the Tsinghua University. The scanner's accuracy is 10mm@50m, and the angular stepwidth is 0.0057degree. The 3 buildings are the old gate, the tsinghua school, and the life science building. You can download the groundtruth data from laser scanner, the image data and the camera projection matrix of each buildings. And you can also obtain the evaluation software which is used to evaluate the difference between your result and the groundtruth in Software section.
 
-<img src="/images/old-qinghua-gate.png#pic_center"></img>
+<img src="/images/old-qinghua-gate.png#pic_center" width="500">
 <center>
   The old gate of Tsinghua University [340MB]
 </center>
