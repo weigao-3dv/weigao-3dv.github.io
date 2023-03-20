@@ -16,3 +16,13 @@ We use the Riegl-LMS-Z420i laser scanner to scan the 3 buildings in the Tsinghua
   <br>The old gate of Tsinghua University [340MB]
 </div>
 
+<div align='center'>
+  <img src="/images/tsinghua-school.png" width="400">
+  <br>The Tsinghua school of Tsinghua University [1.1GB]
+</div>
+
+<div align='center'>
+  <img src="/images/life-science-building.png" width="400">
+  <br>The life science building of Tsinghua University [671MB]
+</div>
+
