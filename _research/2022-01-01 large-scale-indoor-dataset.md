@@ -1,6 +1,6 @@
 ---
 title: "A large-scale dataset for indoor visual localization with high-precision ground truth"
-excerpt: ""
+excerpt: "<img src="/images/research/2022 large-scale dataset .PNG" width="500">"
 collection: research
 ---
 
@@ -14,4 +14,4 @@ This article presents a challenging new dataset for indoor localization research
 
 ## Reference
 
-Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
+Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022. [**DOI**](https://doi.org/10.1177/02783649211052064)
