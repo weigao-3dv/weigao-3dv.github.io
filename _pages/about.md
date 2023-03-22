@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-**Wei Gao** is a Associate Professor at Institute of Automation, Chinese Academy of Sciences, an Adjunct Associate Professor at School of Artificial Intelligence, University of Chinese Academy of Sciences. His current research interests include artificial intelligent, computer vision, 3D reconstruction and SLAM etc.
+**Wei Gao** is an Associate Professor at Institute of Automation, Chinese Academy of Sciences, an Adjunct Associate Professor at School of Artificial Intelligence, University of Chinese Academy of Sciences. His current research interests include artificial intelligent, computer vision, 3D reconstruction and SLAM etc.
 
 ## Interests
 
