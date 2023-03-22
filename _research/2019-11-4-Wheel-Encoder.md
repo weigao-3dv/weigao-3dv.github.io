@@ -1,6 +1,6 @@
 ---
 title: "Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration"
-excerpt: "Combining camera, IMU and wheel encoder is a wise choice for car positioning because of the low cost and complementarity of the sensors. We propose a novel extended visual-inertial odometry algorithm tightly fusing data from the above three sensors. Firstly we propose an IMU-odometer pre-integration approach [**Read More**]</br><img src='/images/research/2019 Wheel Encoder.PNG' width='500'>"
+excerpt: "Combining camera, IMU and wheel encoder is a wise choice for car positioning because of the low cost and complementarity of the sensors. We propose a novel extended visual-inertial odometry algorithm tightly fusing data from the above three sensors. Firstly we propose an IMU-odometer pre-integration approach [**Read More**]<br/><img src='/images/research/2019 Wheel Encoder.PNG' width='500'>"
 collection: research
 ---
 
