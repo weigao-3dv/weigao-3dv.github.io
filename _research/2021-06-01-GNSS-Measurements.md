@@ -1,6 +1,6 @@
 ---
 title: "Optimization-Based Visual-Inertial SLAM Tightly Coupled with Raw GNSS Measurements"
-excerpt: "<img src='/images/research/2021 GNSS Measurements.PNG' width='500'>"
+excerpt: "Unlike loose coupling approaches and the EKF-based approaches in the literature, we propose an optimization-based visual-inertial SLAM tightly coupled with raw Global Navigation Satellite System (GNSS) measurements, a first attempt of this kind in the literature to our knowledge. More specifically, reprojection error, [**Read More**]<br/><img src='/images/research/2021 GNSS Measurements.PNG' width='500'>"
 collection: research
 ---
 

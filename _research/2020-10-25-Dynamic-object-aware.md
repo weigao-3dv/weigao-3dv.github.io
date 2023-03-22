@@ -1,6 +1,6 @@
 ---
 title: "Dynamic object-aware monocular visual odometry with local and global information aggregation"
-excerpt: "<img src='/images/research/2020 Dynamic object-aware.PNG' width='500'>"
+excerpt: "In this paper, we present a deep learning-based approach to monocular visual odometry. We propose a LCGR(Local Convolution and Global RNN) module which utilizes several independent 3D convolution layers to filter noise from features extracted by FlowNet, as well as to model local information, and a Bi-ConvLSTM layer to [**Read More**]<br/><img src='/images/research/2020 Dynamic object-aware.PNG' width='500'>"
 collection: research
 ---
 

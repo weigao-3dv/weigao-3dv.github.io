@@ -1,6 +1,6 @@
 ---
 title: "Boosting image-based localization via randomly geometric data augmentation"
-excerpt: "<img src='/images/research/2020 Boosting image-based.PNG' width='500'>"
+excerpt: "Visual localization is a fundamental problem in computer vision and robotics. Recently, deep learning has shown to be effective for robust monocular localization. Most deep learning-based methods utilize convolution neural network (CNN) to regress global 6 degree-of-freedom (Dof) pose. However, these methods suffer from [**Read More**]<br/><img src='/images/research/2020 Boosting image-based.PNG' width='500'>"
 collection: research
 ---
 

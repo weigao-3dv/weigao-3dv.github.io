@@ -1,6 +1,6 @@
 ---
 title: "Scene-unified image translation for visual localization"
-excerpt: "<img src='/images/research/2020 Scene-unified image.PNG' width='500'>"
+excerpt: "Visual localization is a key technology in the field of 3D robot vision. One of its major difficulties lies in how to deal with the challenges brought by the appearance changes of query images and database images caused by large time spans. Many methods focus on extracting more robust features from images to deal with [**Read More**]<br/><img src='/images/research/2020 Scene-unified image.PNG' width='500'>"
 collection: research
 ---
 

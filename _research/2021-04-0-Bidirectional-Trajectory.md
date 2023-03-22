@@ -1,6 +1,6 @@
 ---
 title: "Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM"
-excerpt: "<img src='/images/research/2021 Bidirectional Trajectory.PNG' width='500'>"
+excerpt: "Odometer-aided visual-inertial SLAM systems typically have a good performance for navigation of wheeled platforms, while they usually suffer from degenerate cases before the first turning. In this paper, firstly we perform an observability analysis w.r.t. the extrinsic parameters before the first turning, which is a [**Read More**]<br/><img src='/images/research/2021 Bidirectional Trajectory.PNG' width='500'>"
 collection: research
 ---
 

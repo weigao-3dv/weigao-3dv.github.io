@@ -1,6 +1,6 @@
 ---
 title: "BSP-MonoLoc: Basic Semantic Primitives Based Monocular Localization on Roads"
-excerpt: "<img src='/images/research/2021 BSP-MonoLoc.PNG' width='500'>"
+excerpt: "Robust visual localization in traffic scenes is a fundamental problem for self-driving vehicles. However, it is still challenging to achieve accurate localization performance because of drastic viewpoint and illumination changes. To address the issues, we design a novel monocular localization framework based on a [**Read More**]<br/><img src='/images/research/2021 BSP-MonoLoc.PNG' width='500'>"
 collection: research
 ---
 
