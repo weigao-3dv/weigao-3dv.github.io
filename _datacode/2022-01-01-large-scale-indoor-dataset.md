@@ -23,7 +23,7 @@ The dataset includes two dataset: training dataset and query dataset. For conven
 
 #### (a) RGB images
 
-All RGB images are stored as JPG files in unrectified 8-bit format. The structure of the dataset is shown in Fig.2. The panoramas are saved in ##pano## folder and named as ##<scan_number>-pano.jpg## with image size of 8192x4096, where ##<scan_number>## is the sequence number of scan points in the trajectory. 36 perspective images are extracted from each panorama and saved in image folder. The query images are saved in another folder named by the phone as it can be seen in Fig.3.
+All RGB images are stored as JPG files in unrectified 8-bit format. The structure of the dataset is shown in Fig.2. The panoramas are saved in **pano** folder and named as **<scan_number>-pano.jpg** with image size of 8192x4096, where **<scan_number>** is the sequence number of scan points in the trajectory. 36 perspective images are extracted from each panorama and saved in image folder. The query images are saved in another folder named by the phone as it can be seen in Fig.3.
 
 <div align='center'>
   <img src="/images/datacode/indoor-database-structure.png" width="400">
@@ -31,21 +31,21 @@ All RGB images are stored as JPG files in unrectified 8-bit format. The structur
 </div>
 
 <div align='center'>
-  <img src="/images/datacode/indoor-query-structure" width="400">
+  <img src="/images/datacode/indoor-query-structure.png" width="400">
   <br>Fig.3 Query file structure
 </div>
 
 #### (b) Depth images
 
-The depth images contain depth value in millimeters are stored as lossless-compressed PNG files in unrectified 16-bit format. ##pano_depth## contains depth information of each visual panorama with the size of 8192x4096. ##image_depth## contains depth image of each perspective image.
+The depth images contain depth value in millimeters are stored as lossless-compressed PNG files in unrectified 16-bit format. **pano_depth** contains depth information of each visual panorama with the size of 8192x4096. **image_depth** contains depth image of each perspective image.
 
 #### (c) Point clouds
 
-Point cloud is saved as ##pointcloud.ply## with point density less than 5mm. The file contains 10 parameters each point, which is (x, y, z, r, g, b, norm x, norm y, norm z, curv). The (x,y,z) are the 3D Cartesian coordinates of the point with respect to the world coordinate and the color information is saved in triplets of (r,g,b). For each point, its normal vector and curvature are recorded as the last four elements, which are critical criterion when determining the visibility of the point in specific perspective.
+Point cloud is saved as **pointcloud.ply** with point density less than 5mm. The file contains 10 parameters each point, which is (x, y, z, r, g, b, norm x, norm y, norm z, curv). The (x,y,z) are the 3D Cartesian coordinates of the point with respect to the world coordinate and the color information is saved in triplets of (r,g,b). For each point, its normal vector and curvature are recorded as the last four elements, which are critical criterion when determining the visibility of the point in specific perspective.
 
 #### (d) Pose
 
-The pose information consists of 3D location vector and quaternion. The pose iunformation of one trajectory is saved in a YAML document file: ##pos.yml##. Note that the reference coordinate of the pose information is the world coordinate system.
+The pose information consists of 3D location vector and quaternion. The pose iunformation of one trajectory is saved in a YAML document file: **pos.yml**. Note that the reference coordinate of the pose information is the world coordinate system.
 
 ### (2)Training dataset
 
@@ -59,9 +59,9 @@ The pose information consists of 3D location vector and quaternion. The pose iun
 
 We provide a set of development kits written in C++ code on the website for users to manipulate the dataset. The code provides functions to produce transformation matrix from camera coordinate to the world coordinate and 3D positions of the feature points.
 
-##transformation matrix generation##: The function ##Quat2Dcm()## is used to produce transformation matrix from camera coordinate to the world coordinate based on rotation vector in the form of quaternions and translation vector.
+**transformation matrix generation**: The function **Quat2Dcm()** is used to produce transformation matrix from camera coordinate to the world coordinate based on rotation vector in the form of quaternions and translation vector.
 
-##3D position generation##: The function ##Pixel2Point()## is used to calculate the 3D position of feature points in the world coordinate based on corresponding depth information and transformation matrix.
+**3D position generation**: The function **Pixel2Point()** is used to calculate the 3D position of feature points in the world coordinate based on corresponding depth information and transformation matrix.
 
 ### Reference
 Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
