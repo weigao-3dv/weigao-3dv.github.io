@@ -1,6 +1,6 @@
 ---
 title: "A large-scale dataset for indoor visual localization with high-precision ground truth"
-excerpt: "This article presents a challenging new dataset for indoor localization research. We have recorded the whole internal structure of Fengtai Wanda Plaza which is an area of over 15,800 m2 with a Navvis M6 device. The dataset contains 679 RGB-D panoramas and 2,664 query images collected by three different smartphones. [**Read More**]<br/><img src='/images/research/2022 large-scale dataset .PNG' width='500'>"
+excerpt: "This article presents a challenging new dataset for indoor localization research. We have recorded the whole internal structure of Fengtai Wanda Plaza which is an area of over 15,800 m2 with a Navvis M6 device. The dataset contains 679 RGB-D panoramas and 2,664 query images collected by three different smartphones. [**Read More**] <br/><img src='/images/research/2022 large-scale dataset .PNG' width='500'>"
 collection: research
 ---
 
