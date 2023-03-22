@@ -1,6 +1,6 @@
 ---
 title: "A large-scale dataset for indoor visual localization with high-precision ground truth"
-excerpt: "localization. <br/><img src='/images/research/2022 large-scale dataset .PNG' width='500'>"
+excerpt: "<img src='/images/research/2022 large-scale dataset .PNG' width='500'>"
 collection: research
 ---
 
