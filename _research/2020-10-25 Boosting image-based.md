@@ -1,6 +1,6 @@
 ---
 title: "Boosting image-based localization via randomly geometric data augmentation"
-excerpt: "<img src="/images/research/2020 Boosting image-based.PNG" width="500">"
+excerpt: "<img src='/images/research/2020 Boosting image-based.PNG' width='500'>"
 collection: research
 ---
 

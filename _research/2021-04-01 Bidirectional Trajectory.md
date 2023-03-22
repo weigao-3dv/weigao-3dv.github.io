@@ -1,6 +1,6 @@
 ---
 title: "Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM"
-excerpt: "<img src="/images/research/2021 Bidirectional Trajectory.PNG" width="500">"
+excerpt: "<img src='/images/research/2021 Bidirectional Trajectory.PNG' width='500'>"
 collection: research
 ---
 

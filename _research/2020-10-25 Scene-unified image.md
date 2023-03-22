@@ -1,6 +1,6 @@
 ---
 title: "Scene-unified image translation for visual localization"
-excerpt: "<img src="/images/research/2020 Scene-unified image.PNG" width="500">"
+excerpt: "<img src='/images/research/2020 Scene-unified image.PNG' width='500'>"
 collection: research
 ---
 

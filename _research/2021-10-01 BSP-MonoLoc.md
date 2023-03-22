@@ -1,6 +1,6 @@
 ---
 title: "BSP-MonoLoc: Basic Semantic Primitives Based Monocular Localization on Roads"
-excerpt: "<img src="/images/research/2021 BSP-MonoLoc.PNG" width="500">"
+excerpt: "<img src='/images/research/2021 BSP-MonoLoc.PNG' width='500'>"
 collection: research
 ---
 

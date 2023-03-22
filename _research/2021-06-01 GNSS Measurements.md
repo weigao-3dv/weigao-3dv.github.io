@@ -1,6 +1,6 @@
 ---
 title: "Optimization-Based Visual-Inertial SLAM Tightly Coupled with Raw GNSS Measurements"
-excerpt: "<img src="/images/research/2021 GNSS Measurements.PNG" width="500">"
+excerpt: "<img src='/images/research/2021 GNSS Measurements.PNG' width='500'>"
 collection: research
 ---
 

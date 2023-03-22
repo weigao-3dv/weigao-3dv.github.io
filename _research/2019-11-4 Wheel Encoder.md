@@ -1,6 +1,6 @@
 ---
 title: "Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration"
-excerpt: "<img src="/images/research/2019 Wheel Encoder.PNG" width="500">"
+excerpt: "<img src='/images/research/2019 Wheel Encoder.PNG' width='500'>"
 collection: research
 ---
 

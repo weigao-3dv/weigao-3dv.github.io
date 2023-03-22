@@ -1,6 +1,6 @@
 ---
 title: "Dynamic object-aware monocular visual odometry with local and global information aggregation"
-excerpt: "<img src="/images/research/2020 Dynamic object-aware.PNG" width="500">"
+excerpt: "<img src='/images/research/2020 Dynamic object-aware.PNG' width='500'>"
 collection: research
 ---
 
