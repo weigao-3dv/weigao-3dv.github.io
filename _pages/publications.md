@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Sheng Han, **Wei Gao\***, Zhanyi Hu. Why You Cannot Rank First: Modifications for Benchmarking Six-Degree-of-Freedom Visual Localization Algorithms. Sensors, 23(23), 9580, 2023.
 * Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
 * Jianwei Li*, **Wei Gao**, Yihong Wu, Yangdong Liu, Yanfei Shen. High-quality indoor scene 3D reconstruction with RGB-D cameras: A brief review. COMPUTATIONAL VISUAL MEDIA, 2022 , 8(3) : 369-393.
 * Heping Li*, Changliang Xue, Feng Wen, Hongbo Zhang, **Wei Gao**. BSP-MonoLoc: Basic Semantic Primitives Based Monocular Localization on Roads. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021),  Prague, Czech Republic, 9.27-10.01, IROS 2021.
