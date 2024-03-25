@@ -5,10 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+* Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration, vol. 176, 104686, June 2024.
 * Chuyun Xie, **Wei Gao\***, Ren Guo. Cross-Modal Learning for Event-Based Semantic Segmentation via Attention Soft Alignment. IEEE Robotics and Automation Letters, vol. 9, no. 3, pp. 2359-2366, March 2024.
 * Sheng Han, **Wei Gao\***, Zhanyi Hu. Why You Cannot Rank First: Modifications for Benchmarking Six-Degree-of-Freedom Visual Localization Algorithms. Sensors, 23(23), 9580, 2023.
 * Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
-* Jianwei Li*, **Wei Gao**, Yihong Wu, Yangdong Liu, Yanfei Shen. High-quality indoor scene 3D reconstruction with RGB-D cameras: A brief review. COMPUTATIONAL VISUAL MEDIA, 2022 , 8(3) : 369-393.
+* Jianwei Li*, **Wei Gao**, Yihong Wu, Yangdong Liu, Yanfei Shen. High-quality indoor scene 3D reconstruction with RGB-D cameras: A brief review. Computational Visual Media, 2022 , 8(3) : 369-393.
 * Heping Li*, Changliang Xue, Feng Wen, Hongbo Zhang, **Wei Gao**. BSP-MonoLoc: Basic Semantic Primitives Based Monocular Localization on Roads. 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS 2021),  Prague, Czech Republic, 9.27-10.01, IROS 2021.
 * Jinxu Liu, **Wei Gao\***, Zhanyi Hu. Optimization-Based Visual-Inertial SLAM Tightly Coupled with Raw GNSS Measurements. Xi’an International Convention and Exhibition Center, Xi'an, China, 5.30-6.5, ICRA 2021.
 * Jinxu Liu, **Wei Gao\***, Zhanyi Hu. Bidirectional Trajectory Computation for Odometer-Aided Visual-Inertial SLAM. Xi’an International Convention and Exhibition Center, Xi'an, China, 5.30-6.5, ICRA 2021.
