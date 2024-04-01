@@ -13,4 +13,4 @@ Combining camera, IMU and wheel encoder is a wise choice for car positioning bec
 
 ## Reference
 
-Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration, vol. 176, 104686, June 2024. [**DOI**](https://doi.org/10.1016/j.robot.2024.104686)
+Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration. Robotics and Autonomous Systems, vol. 176, 104686, June 2024. [**DOI**](https://doi.org/10.1016/j.robot.2024.104686)

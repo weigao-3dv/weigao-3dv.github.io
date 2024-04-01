@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-* Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration, vol. 176, 104686, June 2024.
+* Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration. Robotics and Autonomous Systems, vol. 176, 104686, June 2024.
 * Chuyun Xie, **Wei Gao\***, Ren Guo. Cross-Modal Learning for Event-Based Semantic Segmentation via Attention Soft Alignment. IEEE Robotics and Automation Letters, vol. 9, no. 3, pp. 2359-2366, March 2024.
 * Sheng Han, **Wei Gao\***, Zhanyi Hu. Why You Cannot Rank First: Modifications for Benchmarking Six-Degree-of-Freedom Visual Localization Algorithms. Sensors, 23(23), 9580, 2023.
 * Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
