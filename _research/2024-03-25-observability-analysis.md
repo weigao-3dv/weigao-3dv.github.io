@@ -4,7 +4,9 @@ excerpt: "Combining camera, IMU and wheel encoder is a wise choice for car posit
 collection: research
 ---
 
-
+<div align='center'>
+  <img src="/images/research/2024-observability-analysis.png" width="500">  
+</div>
 
 ## Abstract
 
