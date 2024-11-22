@@ -6,7 +6,7 @@ collection: datacode
 
 ##  Chinese Ancient Architecture Image Database
 
-The following datasets are currently available for non-commercial use. The datasets have two parts, one part consists of laser scan data and corresponding image data which used to compare the accuracy and completeness with the different reconstruction methods, the other consists of the image collections of the typical ancient architectures in the four Buddhist mountains (Mount Wutai, Mount Emei, Mount Jiuhua, Mount Puto) and two Taoist mountains (Mount Wudang, Mount Qingcheng).
+The following datasets are currently available for non-commercial use. The datasets have two parts, one part consists of laser scan data and corresponding image data which used to compare the accuracy and completeness with the different reconstruction methods, the other consists of the image collections of the typical ancient architectures in the four Buddhist mountains (Mount Wutai, Mount Emei, Mount Jiuhua, Mount Putuo) and two Taoist mountains (Mount Wudang, Mount Qingcheng).
 
 ### Benchmark Database
 
@@ -29,7 +29,7 @@ We use the Riegl-LMS-Z420i laser scanner to scan the 3 buildings in the Tsinghua
 
 ### Ancient Architecture Image Database
 
-We have captured typical ancient architectures in the four Buddhist mountains (Mount Wutai, Mount Emei, Mount Jiuhua, Mount Puto) and two Taoist mountains (Mount Wudang, Mount Qingcheng). The camera is Canno EOS 5D.
+We have captured typical ancient architectures in the four Buddhist mountains (Mount Wutai, Mount Emei, Mount Jiuhua, Mount Putuo) and two Taoist mountains (Mount Wudang, Mount Qingcheng). The camera is Canno EOS 5D.
 
 <div align='center'>
   <img src="/images/datacode/fayu-temple.png" width="400">
