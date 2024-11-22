@@ -66,6 +66,8 @@ We provide a set of development kits written in C++ code on the website for user
 ### Reference
 Yuchen Liu, **Wei Gao\***, Zhanyi Hu. A large-scale dataset for indoor visual localization with high-precision ground truth. The International Journal of Robotics Research, 41(2), pp. 129-135, 2022.
 
+Wei Gao. A large scale dataset for indoor visual localization with high precise ground truth[DS/OL]. V1. Science Data Bank, 2024[2024-11-22]. https://doi.org/10.57760/sciencedb.17225. DOI:10.57760/sciencedb.17225.
+
 ### Contact
 
-If you want to download the above databases, please contact me.
+If you want to download the above databases, please visit https://doi.org/10.57760/sciencedb.17225.

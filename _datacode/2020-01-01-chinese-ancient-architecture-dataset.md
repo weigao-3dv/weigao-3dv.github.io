@@ -61,6 +61,10 @@ We have captured typical ancient architectures in the four Buddhist mountains (M
   <br>Shangqing palace of mount Qingcheng [1.9GB]
 </div>
 
+### Reference
+
+Wei Gao. Chinese Ancient Architecture Image Database[DS/OL]. V1. Science Data Bank, 2024[2024-11-22]. https://doi.org/10.57760/sciencedb.ai.00008. DOI:10.57760/sciencedb.ai.00008.
+
 ### Contact
 
-If you want to download the above databases, please contact me.
+If you want to download the above databases, please visit https://doi.org/10.57760/sciencedb.ai.00008.
