@@ -13,8 +13,9 @@ redirect_from:
 ## Interests
 
 * 3D Computer Vision
-* 3D Reconstruction
+* Robot Navigation
 * SLAM
+* 3D Reconstruction
 * Image Localization
 
 ## Membership

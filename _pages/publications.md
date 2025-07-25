@@ -5,6 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. Zengmao Wang, Hao Hu, **Wei Gao\***, Shuhan Shen, Causal Enhanced Autoregressive Model for Monocular Image-Goal Navigation in Unknown Map Environment. IEEE Robotics and Automation Letters, 10(8), 8364-8371, 2025.
+1. Zengmao Wang, Jianhua Hu, Qifei Tang, **Wei Gao\***, COAL: Robust Contrastive Learning-Based Visual Navigation Framework. Journal of Field Robotics, 42(5), 2028-2041, 2025.
+1. Zengmao Wang, Jituo Li, **Wei Gao\***, Controllable fashion rendering via brownian bridge diffusion model with latent sketch encoding. Visual Computer, 2025.
 1. Jinxu Liu, **Wei Gao\***, Chuyun Xie, Zhanyi Hu. Implementation and observability analysis of visual-inertial-wheel odometry with robust initialization and online extrinsic calibration. Robotics and Autonomous Systems, vol. 176, 104686, June 2024.
 1. Chuyun Xie, **Wei Gao\***, Ren Guo. Cross-Modal Learning for Event-Based Semantic Segmentation via Attention Soft Alignment. IEEE Robotics and Automation Letters, vol. 9, no. 3, pp. 2359-2366, March 2024.
 1. Sheng Han, **Wei Gao\***, Zhanyi Hu. Why You Cannot Rank First: Modifications for Benchmarking Six-Degree-of-Freedom Visual Localization Algorithms. Sensors, 23(23), 9580, 2023.
@@ -24,7 +27,7 @@ author_profile: true
 1. Hainan Cui*, Shuhan Shen, **Wei Gao**, Hongmin Liu, Zhiheng Wang. Efficient and robust large-scale structure-from-motion via track selection and camera prioritization. ISPRS Journal of Photogrammetry and Remote Sensing, vol. 156, 202-214, 2019.
 1. Jinxu Liu, **Wei Gao\***, Zhanyi Hu. Visual-Inertial Odometry Tightly Coupled with Wheel Encoder Adopting Robust Initialization and Online Extrinsic Calibration. IROS, THE VENETIAN MACAO, MACAU, CHINA, 11.4 - 11.8, pp. 5391-5397, 2019.
 1. Wei Wang*, **Wei Gao**, Zhanyi Hu. Effective Piecewise Planar Modeling Based on Sparse 3D Points and Convolutional Neural Network. Neurocomputing, vol. 378, pp. 350-363, 2020.
-1. Wei Wang*, **Wei Gao**. Efficient Multi-plane Extraction from Massive 3D Points for Modeling Large-scale Urban Scenes, The Visual Computer,35(5), 625-638, 2019.
+1. Wei Wang*, **Wei Gao**. Efficient Multi-plane Extraction from Massive 3D Points for Modeling Large-scale Urban Scenes, The Visual Computer, 35(5), 625-638, 2019.
 1. Yangdong Liu, **Wei Gao\***, Zhanyi Hu. 3D Scanning of High Dynamic Scenes Using an RGB-D Sensor and an IMU on a Mobile Device, IEEE Access, vol. 7, pp. 24057-24070, 2019.
 1. Jianwei Li, **Wei Gao\***, Yihong Wu. High-Quality 3D Reconstruction With Depth Super-Resolution and Completion, IEEE Access, vol. 7, pp. 19370-19381, 2019.
 1. Wei Wang, **Wei Gao**, Zhanyi Hu. Effectively Modeling Piecewise Planar Urban Scenes Based on Structure Priors and CNN. Science China-Information Sciences, 62(2): 29102, 2019.
