@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
+1. Zengmao Wang, Qifei Tang, **Wei Gao\***, Shuhan Shen, SRIF: A Safer Ranking Inference Framework for Diffusion Policy Models without Retraining, *IEEE Robotics and Automation Letters*, 2025.
 1. Qifei Tang, Zengmao Wang, **Wei Gao\***, MATdiff: Learning diffusion policy with multi-auxiliary task for mobile robot visual exploration, *Robotics and Autonomous Systems*, 195, 2026.
 1. Zengmao Wang, Hao Hu, **Wei Gao\***, Shuhan Shen, Causal Enhanced Autoregressive Model for Monocular Image-Goal Navigation in Unknown Map Environment. *IEEE Robotics and Automation Letters*, 10(8), 8364-8371, 2025.
 1. Zengmao Wang, Jianhua Hu, Qifei Tang, **Wei Gao\***, COAL: Robust Contrastive Learning-Based Visual Navigation Framework. *Journal of Field Robotics*, 42(5), 2028-2041, 2025.
